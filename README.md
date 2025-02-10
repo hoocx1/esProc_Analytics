@@ -120,7 +120,7 @@ max_rise_df = pd.DataFrame(list(max_increase_days.items()), columns=['CODE', 'ma
 **Especially skilled at complex scenarios such as order-related operations, sliding windows, and cross-row computations, much simpler than SQL or Python**
 
 
-[What to use for data analysis programming: SPL,Python or SPL?](https://www.scudata.com/langding-page-scientist/)
+[What to use for data analysis programming: SPL,Python or SPL?](https://www.esproc.com/langding-page-scientist/)
 
 ---
 
